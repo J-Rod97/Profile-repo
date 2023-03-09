@@ -80,11 +80,12 @@ extension ProfileView {
                 }
             }
             .frame(height: 96)
+        
         }
     var actionButton : some View {
-//        padding() ////////// was working here for button spacing layout
+//        padding() ////////// was working here for button spacing layout lets do this later
         HStack(spacing: 12) {
-
+            
             Spacer()
 
             Image(systemName: "bell.badge")
@@ -103,7 +104,8 @@ extension ProfileView {
             }
 
         }
-        .padding(.trailing)
+        //THIS has been changed from trailing to leading
+        .padding(.leading)
     }
     var userInfoDetails: some View {
         VStack(alignment: .leading, spacing: 4) {
