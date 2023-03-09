@@ -18,6 +18,7 @@
 		4FCF2A7029B99A0E002D49D9 /* ProfileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCF2A6F29B99A0E002D49D9 /* ProfileTests.swift */; };
 		4FCF2A7A29B99A0E002D49D9 /* ProfileUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCF2A7929B99A0E002D49D9 /* ProfileUITests.swift */; };
 		4FCF2A7C29B99A0E002D49D9 /* ProfileUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCF2A7B29B99A0E002D49D9 /* ProfileUITestsLaunchTests.swift */; };
+		4FFF7EFB29BA712800FF8D6C /* Picker Selection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFF7EFA29BA712800FF8D6C /* Picker Selection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		4FCF2A7529B99A0E002D49D9 /* ProfileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProfileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FCF2A7929B99A0E002D49D9 /* ProfileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileUITests.swift; sourceTree = "<group>"; };
 		4FCF2A7B29B99A0E002D49D9 /* ProfileUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4FFF7EFA29BA712800FF8D6C /* Picker Selection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Picker Selection.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				4F81B88529BA2849008ADD11 /* Profile data.swift */,
 				4F81B88729BA28DF008ADD11 /* FeedView.swift */,
 				4F81B88329BA2832008ADD11 /* Post view.swift */,
+				4FFF7EFA29BA712800FF8D6C /* Picker Selection.swift */,
 				4FCF2A6229B99A0E002D49D9 /* Assets.xcassets */,
 				4FCF2A6429B99A0E002D49D9 /* Preview Content */,
 			);
@@ -275,6 +278,7 @@
 				4FCF2A5F29B99A0C002D49D9 /* ProfileApp.swift in Sources */,
 				4F81B88829BA28DF008ADD11 /* FeedView.swift in Sources */,
 				4F81B88429BA2832008ADD11 /* Post view.swift in Sources */,
+				4FFF7EFB29BA712800FF8D6C /* Picker Selection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
